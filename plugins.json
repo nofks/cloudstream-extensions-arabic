@@ -2,13 +2,13 @@
   {
     "name": "Arabic",
     "description": "Arabic streaming sources for CloudStream.",
-    "packageName": "com.nofks.cloudstreamextensions.arabic",  // Use your extension's package name
-    "version": 1,  // Update to your extension's version code
-    "iconUrl": "https://raw.githubusercontent.com/nofks/cloudstream-extensions-arabic/main/builds/icon.png",  // Optional: link to your icon
-    "apkUrl": "https://raw.githubusercontent.com/nofks/cloudstream-extensions-arabic/main/builds/arabic.cs3",  // Direct link to your .cs3 file
+    "packageName": "com.nofks.cloudstreamextensions.arabic",
+    "version": 1,
+    "iconUrl": "",
+    "apkUrl": "https://raw.githubusercontent.com/nofks/cloudstream-extensions-arabic/main/builds/arabic.cs3",
     "releaseNotes": "Initial release.",
     "authors": ["nofks"],
-    "sources": ["arabsource"],  // Use your source's internal name
+    "sources": ["arabsource"],
     "lang": "ar"
   }
 ]
